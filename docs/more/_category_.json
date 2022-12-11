@@ -1,0 +1,9 @@
+{
+  "label": "More",
+  "position": 3,
+  "collapsed": true,
+  "collapsible": false,
+  "link": {
+    "type": "generated-index"
+  }
+}
